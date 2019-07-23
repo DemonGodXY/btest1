@@ -13,7 +13,7 @@ exports.config = {
   /**
    * Your New Relic license key.
    */
-  license_key: '/home/cpu11453/Software/bandwidth-hero-proxy/node_modules/newrelic/newrelic.js',
+  license_key: '294f18a3421a65c14550a94c3c2bcf3aa4edb8d4',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
